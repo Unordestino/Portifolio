@@ -105,8 +105,7 @@ body {
 
 .main {
   padding: 80px 180px 80px 100px;
-
-  animation-name: conteudo;
+  /* animation-name: conteudo; */
   animation-duration: 2s;
 }
 
